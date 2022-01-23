@@ -1,0 +1,4 @@
+Key,Count,Size,NeverExpire,AvgTtl(excluded never expire)
+5000bytes_100k:*,100000,6.390 MB,100000,0
+500bytes_100k:*,100000,1.526 MB,100000,0
+50bytes_100k:*,100000,1.144 MB,100000,0
